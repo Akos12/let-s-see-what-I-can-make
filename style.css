@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+
+}
+h1{
+    font-family: 'Balsamiq Sans', cursive;
+    background-color: dodgerblue;
+    margin:30px;
+    padding-left: 0px;
+    font-size: 55px;
+}
+h2{
+    font-size:40px;
+
+}
+h3{
+    font-size:35px;
+}
+ul{
+    font-family: 'Playfair Display', serif;
+    list-style-type: none;
+    font-size: 30px;
+}
+.purple{
+    color: purple;
+}
+.kk{
+    color: purple;
+}
+.red{
+    color:red;
+}
+.blue{
+    color: blue;
+}
+.green{
+    color:green;
+}
